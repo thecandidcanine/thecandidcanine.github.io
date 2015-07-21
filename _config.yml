@@ -2,10 +2,6 @@
 title: The Candid Canine
 email: rachelg@thecandidcanine.com
 description: > # this means to ignore newlines until "baseurl:"
-  Straightforward and Scientifically Sourced Dog Owner Training
-
-  Teaching you to teach your dog!
-
-  Training, Behavioral Consults, Dog Walking and Pet Care
+  Straightforward and Scientifically Sourced Dog Owner Training<br><br>Teaching you to teach your dog!<br><br>Training, Behavioral Consults, Dog Walking and Pet Care
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thecandidcanine.github.io" # the base hostname & protocol for your site
