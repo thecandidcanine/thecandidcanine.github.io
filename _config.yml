@@ -1,6 +1,6 @@
 # Site settings
 title: The Candid Canine
-email: rachelg@thecandidcanine.com
+email: rgarner@thecandidcanine.com
 description: > # this means to ignore newlines until "baseurl:"
   Straightforward and Scientifically Sourced Dog Owner Training<br><br>Teaching you to teach your dog!<br><br>Training, Behavioral Consults, Dog Walking and Pet Care
 baseurl: "" # the subpath of your site, e.g. /blog/
