@@ -6,6 +6,8 @@
     border-bottom: 1px solid $teal-color;
     min-height: 56px;
 
+    background-color: $teal-color;
+
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -16,7 +18,6 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    background-color: $teal-color;
 
     &,
     &:visited {
