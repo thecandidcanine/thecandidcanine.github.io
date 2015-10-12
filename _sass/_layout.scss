@@ -18,6 +18,8 @@
     margin-bottom: 0;
     float: left;
 
+    font-family: 'adlib-regular', sans-serif;
+
     &,
     &:visited {
         color: $yellow-color;
@@ -168,6 +170,7 @@
 
 .page-heading {
     font-size: 20px;
+    font-family: 'adlib-regular', sans-serif;
 }
 
 .post-list {

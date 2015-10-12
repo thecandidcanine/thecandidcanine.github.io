@@ -91,7 +91,6 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    font-family: 'adlib-regular', sans-serif;
 }
 
 
@@ -102,8 +101,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-
-    font-family: 'adlib-regular', sans-serif;
 
     &:visited {
         color: darken($brand-color, 15%);
