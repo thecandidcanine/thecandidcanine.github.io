@@ -8,6 +8,16 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+@font-face {
+    font-family: 'adlib-regular';
+    src: url('adlib-regular.eot');
+    src: url('adlib-regular.eot?#iefix') format('embedded-opentype'),
+        url('adlib-regular-webfont.woff') format('woff'),
+        url('adlib-regular-webfont.ttf') format('truetype'),
+        url('adlib-regular-webfont.svg#adlib-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 /**
@@ -81,6 +91,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    @font-family: 'adlib-regular', sans-serif;
 }
 
 
